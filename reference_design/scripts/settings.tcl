@@ -34,7 +34,7 @@
 
 # ----------------------------------------------------------------------------------
 # Modify this variable to select your module
-if {![info exists module_name]} {set module_name ME-XU5-2CG-1E-D10H}
+if {![info exists module_name]} {set module_name ME-XU5-4EV-1I-D11E}
 if {![info exists baseboard]}   {set baseboard ST1}
 # ----------------------------------------------------------------------------------
 
