@@ -50,3 +50,23 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Vivado project
+reference_design/Vivado/*
+reference_design/.Xil
+
+petalinux/ME-XU5-4EV-1I-D11E/*.vscode
+petalinux/ME-XU5-4EV-1I-D11E/*/*/config.old
+http://petalinux/ME-XU5-4EV-1I-D11E/*/*/rootfs_config.old
+http://petalinux/ME-XU5-4EV-1I-D11E/build/
+http://petalinux/ME-XU5-4EV-1I-D11E/images/linux/
+http://petalinux/ME-XU5-4EV-1I-D11E/pre-built/linux/
+http://petalinux/ME-XU5-4EV-1I-D11E/.petalinux/*
+http://petalinux/ME-XU5-4EV-1I-D11E/!.petalinux/metadata
+http://petalinux/ME-XU5-4EV-1I-D11E/*.o
+http://petalinux/ME-XU5-4EV-1I-D11E/*.jou
+http://petalinux/ME-XU5-4EV-1I-D11E/*.log
+http://petalinux/ME-XU5-4EV-1I-D11E//components/plnx_workspace
+http://petalinux/ME-XU5-4EV-1I-D11E//components/yocto
+http://petalinux/ME-XU5-4EV-1I-D11E/.Xil/
+
